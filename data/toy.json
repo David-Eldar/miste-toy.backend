@@ -1,0 +1,69 @@
+[
+  {
+    "_id": "t101",
+    "name": "Batmobile",
+    "price": 299,
+    "labels": [
+      "Battery powered",
+      "Outdoor",
+      "On wheels"
+    ],
+    "createdAt": "Date.now() - 1004232",
+    "inStock": false,
+    "reviews": [
+      "review 1 best 1",
+      "review 2 almost 1",
+      "review 3 far from 1"
+    ]
+  },
+  {
+    "_id": "t102",
+    "name": "Katan",
+    "price": 159,
+    "labels": [
+      "Box game",
+      "Social"
+    ],
+    "createdAt": "Date.now() - 4100000",
+    "inStock": true,
+    "reviews": [
+      "review 1 best 1",
+      "review 2 almost 1",
+      "review 3 far from 1"
+    ]
+  },
+  {
+    "_id": "t103",
+    "name": "Chucky",
+    "price": 159,
+    "labels": [
+      "Baby",
+      "Doll",
+      "Battery Powered"
+    ],
+    "createdAt": "Date.now() - 4100000",
+    "inStock": true,
+    "reviews": [
+      "review 1 best 1",
+      "review 2 almost 1",
+      "review 3 far from 1"
+    ]
+  },
+  {
+    "name": "Spiderman Action Figure",
+    "price": 139,
+    "createdAt": 1657719698336,
+    "inStock": true,
+    "reviews": [
+      "review 1 best 1",
+      "review 2 almost 1",
+      "review 3 far from 1"
+    ],
+    "labels": [
+      "Battery powered",
+      "Outdoor",
+      "On wheels"
+    ],
+    "_id": "cf8bd"
+  }
+]
